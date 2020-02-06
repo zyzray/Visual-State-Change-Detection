@@ -121,7 +121,7 @@ venv.bak/
 /site
 
 # macos
-.DS_Store:
+.DS_Store
 
 # mypy
 .mypy_cache/
