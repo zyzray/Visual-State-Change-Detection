@@ -1,2 +1,16 @@
-# detect_state_change
-This is a repository for Yizhuo's final year project: detect state change 
+**VSCD**: Visual State Change Detection
+========
+This is a repository for Zhou Yizhuo's Final Year Project: **Visual State Change Detection in Cooking Videos**.
+
+# Installation
+
+# Dataset
+
+# Results
+
+# Model Zoo
+
+# Training
+
+# Evaluation
+
